@@ -1,16 +1,59 @@
-# About
-This project was created to fulfill the graduation requirements for the mobile device programming practical course. I created a simple application called FakeShop, using the FakeStore API for its data.
+# **FakeShop Mobile Application**
 
-### This for the result sample
+This project was created as part of the graduation requirements for the **Mobile Device Programming Practical Course**. The application, **FakeShop**, is a simple e-commerce app that utilizes the **FakeStore API** to fetch and display product data.
 
-About Page
-![iPhone-13-PRO-localhost (3)](https://github.com/user-attachments/assets/080ea884-c59a-41a8-ab82-eb49b832abf5)
+---
 
-Search Page
-![iPhone-13-PRO-localhost](https://github.com/user-attachments/assets/619def59-8132-41c4-96a8-2a27cfe54bc5)
+## **Features**
+- **Home Page**: Display a list of featured products.
+- **Search Page**: Allows users to search for products by name.
+- **Category Page**: View products grouped by category.
+- **About Page**: Information about the app and its functionality.
 
-Home Page
-![iPhone-13-PRO-localhost (1)](https://github.com/user-attachments/assets/c091ef44-024c-4138-9098-3157ea4ad985)
+---
 
-Category Page
-![iPhone-13-PRO-localhost (2)](https://github.com/user-attachments/assets/aa85938b-978a-4666-9937-5ffbbf238130)
+## **Screenshots**
+
+### **Home Page**
+The homepage displays a collection of featured products, showcasing the latest additions to the store.
+
+![Home Page](https://github.com/user-attachments/assets/c091ef44-024c-4138-9098-3157ea4ad985)
+
+### **Search Page**
+On the search page, users can easily search for products by entering keywords.
+
+![Search Page](https://github.com/user-attachments/assets/619def59-8132-41c4-96a8-2a27cfe54bc5)
+
+### **Category Page**
+The category page allows users to browse products grouped by different categories for easy exploration.
+
+![Category Page](https://github.com/user-attachments/assets/aa85938b-978a-4666-9937-5ffbbf238130)
+
+### **About Page**
+The about page provides details about the application and its features.
+
+![About Page](https://github.com/user-attachments/assets/080ea884-c59a-41a8-ab82-eb49b832abf5)
+
+---
+
+## **Technologies Used**
+- **React Native**: For building the mobile app.
+- **FakeStore API**: Provides the product data used in the app.
+
+---
+
+## **How to Run**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/fakeshop.git
+   ```
+
+2. Install dependencies:
+``` bash
+npm install
+```
+
+3. Run the app:
+```bash
+npm start
+```  
